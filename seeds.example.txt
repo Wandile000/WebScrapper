@@ -1,0 +1,8 @@
+# One URL per line. Lines starting with '#' are ignored.
+# The scheme is optional - bare domains default to https://.
+# Prospects below are examples only; replace with your own list.
+
+example.com
+http://info.cern.ch/
+https://motherfuckingwebsite.com/
+https://bettermotherfuckingwebsite.com/
